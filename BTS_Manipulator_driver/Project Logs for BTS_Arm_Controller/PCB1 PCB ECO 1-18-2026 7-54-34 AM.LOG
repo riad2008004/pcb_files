@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=NetJ6_2 Pin=MD6-11
+Removed Pin From Net: NetName=NetJ6_1 Pin=MD6-12
+Added Pin To Net: NetName=NetJ6_1 Pin=MD6-11
+Added Pin To Net: NetName=NetJ6_2 Pin=MD6-12
+Added Class: Name=Sheet1

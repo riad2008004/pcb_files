@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=D32 Pin=J9-3
+Removed Pin From Net: NetName=D34 Pin=J9-5
+Removed Pin From Net: NetName=D36 Pin=J9-7
+Removed Pin From Net: NetName=D38 Pin=J9-9
+Added Pin To Net: NetName=D32 Pin=J9-2
+Added Pin To Net: NetName=D34 Pin=J9-3
+Added Pin To Net: NetName=D36 Pin=J9-4
+Added Pin To Net: NetName=D38 Pin=J9-5
+Added Pin To Net: NetName=D40 Pin=J9-6
+Added Pin To Net: NetName=D40 Pin=MCU1-40
+Added Net: Name=D40
+Added Pin To Net: NetName=D42 Pin=J9-7
+Added Pin To Net: NetName=D42 Pin=MCU1-42
+Added Net: Name=D42
+Added Pin To Net: NetName=D44 Pin=J9-8
+Added Pin To Net: NetName=D44 Pin=MCU1-44
+Added Net: Name=D44
+Added Pin To Net: NetName=D46 Pin=J9-9
+Added Pin To Net: NetName=D46 Pin=MCU1-46
+Added Net: Name=D46
+Added Pin To Net: NetName=D48 Pin=J9-10
+Added Pin To Net: NetName=D48 Pin=MCU1-48
+Added Net: Name=D48
