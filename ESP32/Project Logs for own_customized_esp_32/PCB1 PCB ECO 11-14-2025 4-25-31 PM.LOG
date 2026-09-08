@@ -1,0 +1,69 @@
+Added Pin To Net: NetName=GND Pin=C1-0
+Added Pin To Net: NetName=GND Pin=C2-0
+Added Pin To Net: NetName=GND Pin=C3-0
+Added Pin To Net: NetName=GND Pin=C4-0
+Added Pin To Net: NetName=GND Pin=C5-0
+Added Pin To Net: NetName=GND Pin=C6-0
+Added Pin To Net: NetName=GND Pin=C7-0
+Added Pin To Net: NetName=GND Pin=C8-0
+Added Pin To Net: NetName=GND Pin=C9-0
+Added Pin To Net: NetName=GND Pin=C10-0
+Added Pin To Net: NetName=GND Pin=C11-0
+Added Pin To Net: NetName=GND Pin=C12-0
+Added Pin To Net: NetName=GND Pin=C13-0
+Added Pin To Net: NetName=GND Pin=C14-0
+Added Pin To Net: NetName=GND Pin=C15-0
+Added Pin To Net: NetName=GND Pin=C16-0
+Added Pin To Net: NetName=GND Pin=C17-0
+Add Pin To Net: Unknown Pin: Pin CON1-A1B12
+Add Pin To Net: Unknown Pin: Pin CON1-A4B9
+Add Pin To Net: Unknown Pin: Pin CON1-B1A12
+Add Pin To Net: Unknown Pin: Pin CON1-B4A9
+Add Pin To Net: Unknown Pin: Pin CON1-S1
+Add Pin To Net: Unknown Pin: Pin CON1-S2
+Add Pin To Net: Unknown Pin: Pin CON1-S3
+Add Pin To Net: Unknown Pin: Pin CON1-S4
+Add Pin To Net: Unknown Pin: Pin CON2-A1B12
+Add Pin To Net: Unknown Pin: Pin CON2-A4B9
+Add Pin To Net: Unknown Pin: Pin CON2-B1A12
+Add Pin To Net: Unknown Pin: Pin CON2-B4A9
+Add Pin To Net: Unknown Pin: Pin CON2-S1
+Add Pin To Net: Unknown Pin: Pin CON2-S2
+Add Pin To Net: Unknown Pin: Pin CON2-S3
+Add Pin To Net: Unknown Pin: Pin CON2-S4
+Added Pin To Net: NetName=GND Pin=D1-B9
+Added Pin To Net: NetName=+5V_VBUS1 Pin=D1-B10
+Added Pin To Net: NetName=GND Pin=D2-B9
+Added Pin To Net: NetName=CON1_USB_N Pin=D2-B10
+Added Pin To Net: NetName=GND Pin=D3-B9
+Added Pin To Net: NetName=CON1_USB_N Pin=D3-B10
+Added Pin To Net: NetName=GND Pin=D4-B9
+Added Pin To Net: NetName=+5V_VBUS2 Pin=D4-B10
+Added Pin To Net: NetName=GND Pin=D5-B9
+Added Pin To Net: NetName=CON2_USB_N Pin=D5-B10
+Added Pin To Net: NetName=GND Pin=D6-B9
+Added Pin To Net: NetName=CON2_USB_N Pin=D6-B10
+Added Pin To Net: NetName=+VCC_FTDI Pin=R1-3
+Added Pin To Net: NetName=+VCC_FTDI Pin=R2-3
+Added Pin To Net: NetName=+3V3_FTDI Pin=R3-3
+Added Pin To Net: NetName=FTDI_USB_N Pin=R4-3
+Added Pin To Net: NetName=FTDI_USB_P Pin=R5-3
+Added Pin To Net: NetName=NetC8_1 Pin=R6-3
+Added Pin To Net: NetName=NetR7_3 Pin=R7-3
+Added Pin To Net: NetName=NetCON1_B5 Pin=R8-3
+Added Pin To Net: NetName=NetCON1_A5 Pin=R9-3
+Added Pin To Net: NetName=+5V_VBUS1 Pin=R10-3
+Added Pin To Net: NetName=VBUS_SENSE Pin=R11-3
+Added Pin To Net: NetName=NetCON2_B5 Pin=R12-3
+Added Pin To Net: NetName=NetCON2_A5 Pin=R13-3
+Added Pin To Net: NetName=DTR_FTDI Pin=R14-3
+Added Pin To Net: NetName=+3V3 Pin=R15-3
+Added Pin To Net: NetName=RTS_FTDI Pin=R16-3
+Added Pin To Net: NetName=GPIO0 Pin=R17-3
+Added Pin To Net: NetName=RXD_FTDI Pin=R18-3
+Added Pin To Net: NetName=GPIO0 Pin=R19-3
+Added Pin To Net: NetName=TXD_FTDI Pin=R20-3
+Added Pin To Net: NetName=ESP_USB_N Pin=R21-3
+Added Pin To Net: NetName=ESP_USB_P Pin=R22-3
+Added Pin To Net: NetName=ESP_USB_N Pin=R23-3
+Added Pin To Net: NetName=ESP_USB_P Pin=R24-3

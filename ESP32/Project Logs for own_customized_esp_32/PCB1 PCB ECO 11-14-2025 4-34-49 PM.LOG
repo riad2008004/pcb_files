@@ -1,0 +1,16 @@
+Added Pin To Net: NetName=GND Pin=CON1-A1B12
+Added Pin To Net: NetName=+5V_VBUS1 Pin=CON1-A4B9
+Added Pin To Net: NetName=GND Pin=CON1-B1A12
+Added Pin To Net: NetName=+5V_VBUS1 Pin=CON1-B4A9
+Added Pin To Net: NetName=GND Pin=CON1-S1
+Added Pin To Net: NetName=GND Pin=CON1-S2
+Added Pin To Net: NetName=GND Pin=CON1-S3
+Added Pin To Net: NetName=GND Pin=CON1-S4
+Added Pin To Net: NetName=GND Pin=CON2-A1B12
+Added Pin To Net: NetName=+5V_VBUS2 Pin=CON2-A4B9
+Added Pin To Net: NetName=GND Pin=CON2-B1A12
+Added Pin To Net: NetName=+5V_VBUS2 Pin=CON2-B4A9
+Added Pin To Net: NetName=GND Pin=CON2-S1
+Added Pin To Net: NetName=GND Pin=CON2-S2
+Added Pin To Net: NetName=GND Pin=CON2-S3
+Added Pin To Net: NetName=GND Pin=CON2-S4
